@@ -12,7 +12,8 @@ https://user-images.githubusercontent.com/72060359/171834904-aa3058dc-ea11-44f2-
 
 ## Download
 ```
-To run this app, you need to go to the following link to download the below apk and then install the apk on your phone
+To run this app, you need to go to the following link to download the below apk and 
+then install the apk on your phone
 ```
 https://drive.google.com/file/d/1iOlqCqlLCSr6iu4TDA9B737o754s1pD7/view?usp=sharing
 
