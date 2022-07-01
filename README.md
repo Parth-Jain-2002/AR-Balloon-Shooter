@@ -2,7 +2,9 @@
 
 A game that allows you to play balloon shooting in your real physical world. This is built on Unity and will run on all ARCore Supported devices.
 
-ARCORE IN BRIEF: ```ARCore is a platform developed by Google that was released on the 1st of March 2018 for building augmented reality experiences. ARCore enables an individual’s phone to sense its environment and understand its surroundings to interact with information. It basically uses three key capabilities namely Motion Tracking, Environmental Understanding, and Light Estimation (all of them are described below) that help to put virtual objects on the real environment of the world as seen through your phone’s camera.```
+Augmented Reality (AR) in brief: ```Augmented Reality (AR) enhances the physical world around us with the help of technology. Technology that overlays information and virtual things on real-world scenes in real-time. It uses the pre-existing environment and adds information to it to make a new artificial environment.``` 
+
+ARCore in brief: ```ARCore is a platform developed by Google that was released on the 1st of March 2018 for building augmented reality experiences. ARCore enables an individual’s phone to sense its environment and understand its surroundings to interact with information. It basically uses three key capabilities namely Motion Tracking, Environmental Understanding, and Light Estimation (all of them are described below) that help to put virtual objects on the real environment of the world as seen through your phone’s camera.```
 
 ## SCREENSHOTS
 
